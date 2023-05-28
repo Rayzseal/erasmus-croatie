@@ -1,0 +1,18 @@
+States: q1,q2
+Symbols: 0,1,2
+Stack Symbols: N,J,K
+Accepting states: q2
+Initial state: q1
+Initial stack symbol: K
+String: 1010
+Transitions:
+(q1,0,K) = {(q1,NK)}
+(q1,0,N) = {(q1,NN)}
+(q1,0,J) = {(q1,€)}
+(q1,1,K) = {(q1,JK)}
+(q1,1,N) = {(q1,€)}
+(q1,1,J) = {(q1,JJ)}
+(q1,2,K) = {(q1,K)}
+(q1,2,N) = {(q1,N)}
+(q1,2,J) = {(q1,J)}
+(q1,€,K) = {(q2,€)}

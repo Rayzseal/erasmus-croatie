@@ -1,0 +1,104 @@
+3. __________________________
+
+Heuristic search (part 1/5)
+https://youtu.be/kFjYBwxR8Ps
+Heuristic search (part 2/5)
+https://youtu.be/fCUflV9SrpA
+Heuristic search (part 3/5)
+https://youtu.be/fUL1FiIsaDA
+Heuristic search (part 4/5)
+https://youtu.be/eb0clLF5s8o
+Heuristic search (part 5/5)
+https://youtu.be/f2hSaGBS4WU
+
+4. __________________________
+
+Game playing (part 1/4)
+https://youtu.be/d0oKjdx1Dbo
+Game playing (part 2/4)
+https://youtu.be/wodQdT56dL4
+Game playing (part 3/4)
+https://youtu.be/lyujU_so52I
+Game playing (part 4/4)
+https://youtu.be/RRVb_mRzL2I
+
+5. _________________________
+
+Knowledge representation using formal logic (part 1/5)
+https://youtu.be/V17mDHtmG-w
+Knowledge representation using formal logic (part 2/5)
+https://youtu.be/LZPoOdgS1uk
+Knowledge representation using formal logic (part 3/5)
+https://youtu.be/0IOq5mquEkI
+Knowledge representation using formal logic (part 4/5)
+https://youtu.be/9OhKIJoqKDc
+Knowledge representation using formal logic (part 5/5)
+https://youtu.be/psdES5AnbeI
+
+6. _________________________
+
+Automated reasoning (part 1/5)
+https://youtu.be/b7rVUCluz9M
+Automated reasoning (part 2/5)
+https://youtu.be/UlFQxqT0Zwk
+Automated reasoning (part 3/5)
+https://youtu.be/anMLC28syVg
+Automated reasoning (part 4/5)
+https://youtu.be/DdUI7t6_4Ks
+Automated reasoning (part 5/5)
+https://youtu.be/HW1ewTDDPm0
+
+7. _________________________
+
+Logic programming in Prolog (part 1/4)
+https://youtu.be/LzBZLeIK3z4
+Logic programming in Prolog (part 2/4)
+https://youtu.be/HruVfhlE-yM
+Logic programming in Prolog (part 3/4)
+https://youtu.be/vpo6s3-584k
+Logic programming in Prolog (part 4/4)
+https://youtu.be/oTEYY24x89Y
+
+9. _________________________
+
+Modeling uncertainty (part 1/3)
+https://youtu.be/wapsZzbjm0c
+Modeling uncertainty (part 2/3)
+https://youtu.be/ESJDtUSRyss
+Modeling uncertainty (part 3/3)
+https://youtu.be/wlLXcKyh000
+
+10. _________________________
+
+Machine learning (part 1/5)
+https://youtu.be/N5ROlJZZ-KE
+Machine learning (part 2/5)
+https://youtu.be/J_KsmGTzOdY
+Machine learning (part 3/5)
+https://youtu.be/le25ycLLF0k
+Machine learning (part 4/5)
+https://youtu.be/Un5lB65BRUw
+Machine learning (part 5/5)
+https://youtu.be/K5WSd46awZY
+
+11. _________________________
+
+Artificial neural networks (part 1/4)
+https://youtu.be/vEQvBvyu0bU
+Artificial neural networks (part 2/4)
+https://youtu.be/uGkV_jEcW_E
+Artificial neural networks (part 3/4)
+https://youtu.be/pSr-5LKl39o
+Artificial neural networks (part 4/4)
+https://youtu.be/NjmeQHe4YcY
+
+12. _________________________
+
+Nature-inspired optimization algorithms (part 1/4)
+https://youtu.be/IFHR-Yev3Zg
+Nature-inspired optimization algorithms (part 2/4)
+https://youtu.be/cbY6euGL2I8
+Nature-inspired optimization algorithms (part 3/4)
+https://youtu.be/F8ST-aJJMrU
+Nature-inspired optimization algorithms (part 4/4)
+https://youtu.be/R9Z5KkvwHfg
